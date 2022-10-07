@@ -268,3 +268,18 @@ background-color: rgb(247, 240, 228);
     margin-top: 20px;
 
 }
+button{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(227, 157, 245);
+    border: 5px solid blueviolet;
+    border-radius: 40px;
+    font-family: 'Lobster';
+    margin-left: 600px;
+    font-size: 45px;
+}
+button:hover{
+    background-color: rgb(221, 216, 216);
+    color: rgb(91, 28, 142);
+    border-color: rgb(91, 28, 142);
+}
